@@ -20,5 +20,5 @@ Incluye ejercicios de práctica de Flexbox y Grid CSS con ejemplo de páginas re
 
 ### Menus
 
-![image info](./screenshots/menu.png.png)
+![image info](./screenshots/menu.png)
 
